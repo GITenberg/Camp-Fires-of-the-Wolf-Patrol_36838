@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '9336'
     url: http://www.gutenberg.org/2009/agents/9336
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36838#Camp-Fires-of-the-Wolf-Patrol
 gutenberg_issued: '2011-07-24'
 gutenberg_type: Text
 identifiers:
